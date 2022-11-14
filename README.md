@@ -39,6 +39,11 @@ This list is a combined list of topics I am studying this year (2022) all the wa
 | Game engines | Why not make my own game engine |
 | Exploit development | I want to be a god at this | 
 | Search engines | I love algorithms | 
+| Reverse Engineering | Sick as ffff |
+| Survival | Why not |
+| Chemistry | Another why not |
+| Java | Because java is- well- special |
+| Computer Science | Better my skill in development | 
 
 # list of external resources
 
